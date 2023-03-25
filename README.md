@@ -1,1 +1,1 @@
-# spring_k8s_meetup
+# spring_cka_d_meetup
