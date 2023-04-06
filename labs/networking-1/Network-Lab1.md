@@ -56,22 +56,22 @@ The following section is a lab to help you understand network namespaces. You wi
 While preparing the notes, I also tried to create two network namespaces and connect them together. Unfortunately, we don't have enough time to cover this part. But I will leave the commands here for you to try.
 
 ```bash
-sudo ip netns add bard; # You may want to delete the bard namespace first if you have created it before
-sudo ip netns add gpt;
+sudo ip netns add bard # You may want to delete the bard namespace first if you have created it before
+sudo ip netns add gpt
 
-sudo ip link add dev v-bard type veth peer name v-gpt;
-sudo ip link set dev v-bard netns bard;
-sudo ip link set dev v-gpt netns gpt;
+sudo ip link add dev v-bard type veth peer name v-gpt
+sudo ip link set dev v-bard netns bard
+sudo ip link set dev v-gpt netns gpt
 
-sudo ip netns exec bard ip addr add 192.168.15.1 dev v-bard;
-sudo ip netns exec gpt ip addr add 192.168.15.2 dev v-gpt;
+sudo ip netns exec bard ip addr add 192.168.15.1 dev v-bard
+sudo ip netns exec gpt ip addr add 192.168.15.2 dev v-gpt
 
-sudo ip netns exec bard ip link set dev v-bard up;
-sudo ip netns exec gpt ip link set dev v-gpt up;
+sudo ip netns exec bard ip link set dev v-bard up
+sudo ip netns exec gpt ip link set dev v-gpt up
 
 sudo ip netns exec bard ip route add 192.168.15.2/32 dev v-bard
 sudo ip netns exec gpt ip route add 192.168.15.1/32 dev v-gpt
-sudo ip netns exec bard ping 192.168.15.2;
+sudo ip netns exec bard ping 192.168.15.2
 
 # Curl a service in gpt namespace
 sudo ip netns exec gpt bash
