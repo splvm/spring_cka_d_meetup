@@ -8,7 +8,7 @@
 | `sudo iptables -L` | List all iptables rules |  |
 | `sudo iptables -L -t nat` | List all iptables nat rules |  |
 
-## Network Namespace Lab
+## Network Namespace Lab Part 1
 
 Requirements for a valid network namespace:
 - Loopback interface (ping 127.0.0.1)
@@ -51,8 +51,39 @@ The following section is a lab to help you understand network namespaces. You wi
 | Host | `sudo iptables -A FORWARD -o <main-eth-interface> -i veth0 -j ACCEPT` | Add iptables rule to allow traffic from veth0 to main ethernet |  | Success |
 | Namespace | `ping 8.8.8.8` | Test internet connection |  | Success |
 
+## Network Namespace Lab Part 2
+
+While preparing the notes, I also tried to create two network namespaces and connect them together. Unfortunately, we don't have enough time to cover this part. But I will leave the commands here for you to try.
+
+```bash
+sudo ip netns add bard; # You may want to delete the bard namespace first if you have created it before
+sudo ip netns add gpt;
+
+sudo ip link add dev v-bard type veth peer name v-gpt;
+sudo ip link set dev v-bard netns bard;
+sudo ip link set dev v-gpt netns gpt;
+
+sudo ip netns exec bard ip addr add 192.168.15.1 dev v-bard;
+sudo ip netns exec gpt ip addr add 192.168.15.2 dev v-gpt;
+
+sudo ip netns exec bard ip link set dev v-bard up;
+sudo ip netns exec gpt ip link set dev v-gpt up;
+
+sudo ip netns exec bard ip route add 192.168.15.2/32 dev v-bard
+sudo ip netns exec gpt ip route add 192.168.15.1/32 dev v-gpt
+sudo ip netns exec bard ping 192.168.15.2;
+
+# Curl a service in gpt namespace
+sudo ip netns exec gpt bash
+python3 labs/networking-1/best_time.py
+
+# In another terminal
+sudo ip netns exec bard bash
+curl http://192.168.15.2:2023
+```
+
 ## Clean Up
 - Remove the network namespace
-  - `sudo ip netns del bard`
+  - `sudo ip netns del <namespace-name>`
 - Remove the virtual ethernet pair
-  - `sudo ip link del veth0`
+  - `sudo ip link del <veth-name>`
