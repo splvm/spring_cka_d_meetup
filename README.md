@@ -20,8 +20,8 @@ https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09
 | Time/Zoom | Topic | Prepare Reading | Presenter | Notes | Recording |
 | --------- | ----- | --------------- | ------- | ----- | --------- |
 | March 26: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | Administrative     |  | [Wen](linwen1991@gmail.com) |  |  |
-| April 1: 5:00pm PST,  [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | Pod Networking     | [Networking-1.md](https://github.com/splvm/spring_cka_d_meetup/blob/main/prep_reading/Networking-1.md) | [Wen](linwen1991@gmail.com) | [Networking-1](./labs/networking-1/Network-Lab1.md) |  |
-| April 8: 5:00pm PST,  [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | Cluster Networking | [Networking-2.md](./prep_reading/Networking-2.md) |  |  |  |
+| April 1: 5:00pm PST,  [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | Pod Networking     | [Networking-1.md](https://github.com/splvm/spring_cka_d_meetup/blob/main/prep_reading/Networking-1.md) | [Wen](linwen1991@gmail.com) | [Networking-Lab1.md](./labs/networking-1/Network-Lab1.md) |  |
+| April 8: 5:00pm PST,  [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | Cluster Networking: Service | [Networking-2.md](./prep_reading/Networking-2.md) | [Wen](linwen1991@gmail.com) | [Networking-Lab2.md](./labs/networking-2/Networking-Lab2.md) | [Recording](https://youtu.be/-Pps3bqZl3I) |
 | April 15: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | Scheduling         |  |  |  |  |
 | April 22: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | Scheduling         |  |  |  |  |
 | April 29: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | Security           |  |  |  |  |
