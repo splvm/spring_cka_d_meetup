@@ -28,7 +28,7 @@ Before moving forward, you need to have a cluster either in local or in a public
 | `curl <svc-ip>:<svc-port>`                                                                                                                                                                   | Check the service.                                |
 | `kubectl run mycurlpod --image=curlimages/curl -i --tty -- sh`                                                                                                                               | Create a pod with curl image and execute into it. |
 
-| `curl http://quote`,
+| `curl http://quote`
 `curl http://quote.default`, `curl http://quote.default.svc`, `curl http://quote.default.svc.cluster`, `curl http://quote.default.svc.cluster.local` | Valid commands. |
 | `kubectl node-shell <node-name>` | Connect to the node. |
 | `iptables -L -t nat \| grep <quote-svc-ip>` | Check the NAT rule for the service. |
