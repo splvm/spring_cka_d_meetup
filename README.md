@@ -7,6 +7,8 @@ https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09
 - **04/15/2023** :loudspeaker: Mossaka will give two talks in KubeCon EU on WebAssembly. Here are the details:
   - [WASI and the Cloud, April 18th 10:50-11:15 CEST](https://sched.co/1Jngf)
   - [Tutorial: Hands on with WebAssembly Microservices and Kubernetes, April 19th 14:30-16:00 CEST](https://sched.co/1HyXh)
+- **04/15/2023** :loudspeaker: Yiming Peng will give a talk in KubeCon EU. Following is the talk details:
+  - [CNCF Contributions at AWS. Focus projects: containerd & Envoy](https://www.linkedin.com/posts/pengyiming_aws-kubecon-cloudnativecon-activity-7049506752223997952-rgez?utm_source=share&utm_medium=member_ios)
 - **04/15/2023** We will have a recall and discussion on Load Balancer type Service. Ingress will probably be covered today or in the next meetup.
 - **04/05/2023** Prepare reading for [Networking-2](./prep_reading/Networking-2.md) is ready. I strongly recommended the video [Tutorial: Communication Is Key - Understanding Kubernetes Networking](https://youtu.be/InZVNuKY5GY) for this topic. If you don't have time for other readings, at least watch this video.
 
