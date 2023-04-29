@@ -4,6 +4,7 @@
 https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09
 
 ### Annoucement 📢
+- **04/29/2023** Meetup is cancelled today. We will resume next week. If you have any questions on the previous labs, please feel free to join the Zoom meeting for a chat.
 - **04/15/2023** :loudspeaker: Mossaka will give two talks in KubeCon EU on WebAssembly. Here are the details:
   - [WASI and the Cloud, April 18th 10:50-11:15 CEST](https://sched.co/1Jngf)
   - [Tutorial: Hands on with WebAssembly Microservices and Kubernetes, April 19th 14:30-16:00 CEST](https://sched.co/1HyXh)
@@ -25,12 +26,12 @@ https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09
 ### Schedule 📆
 | Time/Zoom | Topic | Prepare Reading | Presenter | Notes | Recording |
 | --------- | ----- | --------------- | ------- | ----- | --------- |
-| March 26: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | Administrative     |  | [Wen](linwen1991@gmail.com) |  |  |
+| March 26: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | Administrative     | None | [Wen](linwen1991@gmail.com) | None | None |
 | April 1: 5:00pm PST,  [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | Pod Networking     | [Networking-1.md](https://github.com/splvm/spring_cka_d_meetup/blob/main/prep_reading/Networking-1.md) | [Wen](linwen1991@gmail.com) | [Networking-Lab1.md](./labs/networking-1/Network-Lab1.md) | NO Recording |
 | April 8: 5:00pm PST,  [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | Cluster Networking: Service | [Networking-2.md](./prep_reading/Networking-2.md) | [Wen](linwen1991@gmail.com) | [Networking-Lab2.md](./labs/networking-2/Networking-Lab2.md) | [Recording](https://youtu.be/-Pps3bqZl3I) |
 | April 15: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | Cluster Networking: Ingress |  | [Wen](linwen1991@gmail.com) |  | [Recording](https://youtu.be/Fi35JPS1aMU) |
-| April 22: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | K8s Workload |  | [Wen](linwen1991@gmail.com) |  |  |
-| April 29: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | K8s Workload: Pod |  |  |  |  |
+| April 22: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | K8s Workload: Deployment & ReplicaSets | [Workload-Lab1.md](./labs/workload-1/Workload-Lab1.md) | [Wen](linwen1991@gmail.com) | [Workload-Lab1.md](./labs/workload-1/Workload-Lab1.md) | [Recording](https://youtu.be/JZ1Yu0KwySU) |
+| April 29: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | CANCELLED | CANCELLED | CANCELLED | CANCELLED | CANCELLED |
 | May 6: 5:00pm PST,    [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | K8s Networking: CNI |  | [Ruihua Fang]() |  |  |
 | May 13: 5:00pm PST,   [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | Scheduling         |  |  |  |  |
 | May 20: 5:00pm PST,   [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | Scheduling         |  |  |  |  |
@@ -43,7 +44,7 @@ https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09
 ### Misc 📝
 - [Join Slack](https://join.slack.com/t/splvm/shared_invite/zt-11c7tkyoy-gNOtZWwSZsE2UFOtXBw2Wg) for async discussion
 - If you wish to join 微信 (WeChat), please scan
-- <img style="width: 200px; height: 270px" src="assets/WeChat-04-22.jpg">
+- <img style="width: 200px; height: 270px" src="assets/WeChat-05-06.jpg">
 
 ### Sponsors
 > The organizers spent a lot of time and effort to make this meetup possible. If you would like to sponsor this meetup, please contact us at `systemsgossip at gmail dot com`
