@@ -4,6 +4,7 @@
 https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09
 
 ### Annoucement 📢
+- **05/05/2023** We are super glad to share that Ruihua Fang will give a talk on CNI on 05/06/2023 :calendar:. Please join us to learn more about CNI.
 - **04/29/2023** Meetup is cancelled today. We will resume next week. If you have any questions on the previous labs, please feel free to join the Zoom meeting for a chat.
 - **04/15/2023** :loudspeaker: Mossaka will give two talks in KubeCon EU on WebAssembly. Here are the details:
   - [WASI and the Cloud, April 18th 10:50-11:15 CEST](https://sched.co/1Jngf)
@@ -44,7 +45,7 @@ https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09
 ### Misc 📝
 - [Join Slack](https://join.slack.com/t/splvm/shared_invite/zt-11c7tkyoy-gNOtZWwSZsE2UFOtXBw2Wg) for async discussion
 - If you wish to join 微信 (WeChat), please scan
-- <img style="width: 200px; height: 270px" src="assets/WeChat-05-06.jpg">
+- <img style="width: 200px; height: 270px" src="assets/WeChat-05-12.jpg">
 
 ### Sponsors
 > The organizers spent a lot of time and effort to make this meetup possible. If you would like to sponsor this meetup, please contact us at `systemsgossip at gmail dot com`
