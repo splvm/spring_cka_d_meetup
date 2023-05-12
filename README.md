@@ -4,6 +4,7 @@
 https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09
 
 ### Annoucement 📢
+- **05/12/2023** The meetup on 5/13 will be moved to 5/14 (Sunday). See you all at 5pm PST on 5/14.
 - **05/05/2023** We are super glad to share that Ruihua Fang will give a talk on CNI on 05/06/2023 :calendar:. Please join us to learn more about CNI.
 - **04/29/2023** Meetup is cancelled today. We will resume next week. If you have any questions on the previous labs, please feel free to join the Zoom meeting for a chat.
 - **04/15/2023** :loudspeaker: Mossaka will give two talks in KubeCon EU on WebAssembly. Here are the details:
@@ -33,8 +34,8 @@ https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09
 | April 15: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | Cluster Networking: Ingress |  | [Wen](linwen1991@gmail.com) |  | [Recording](https://youtu.be/Fi35JPS1aMU) |
 | April 22: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | K8s Workload: Deployment & ReplicaSets | [Workload-Lab1.md](./labs/workload-1/Workload-Lab1.md) | [Wen](linwen1991@gmail.com) | [Workload-Lab1.md](./labs/workload-1/Workload-Lab1.md) | [Recording](https://youtu.be/JZ1Yu0KwySU) |
 | April 29: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | CANCELLED | CANCELLED | CANCELLED | CANCELLED | CANCELLED |
-| May 6: 5:00pm PST,    [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | K8s Networking: CNI |  | [Ruihua Fang]() |  |  |
-| May 13: 5:00pm PST,   [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | Scheduling         |  |  |  |  |
+| May 6: 5:00pm PST,    [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | K8s Networking: CNI |  | [Ruihua Fang]() |  | [Recording](https://youtu.be/gy0HPqCN4cg) |
+| May 14: 5:00pm PST,   [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | K8s Workload: StatefulSet & DaemonSet | K8s In Action: Chater 15 & 16 | [Wen](linwen1991@gmail.com) |  |  |
 | May 20: 5:00pm PST,   [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | Scheduling         |  |  |  |  |
 | May 27: 5:00pm PST,   [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) | App Lifecycle      |  |  |  |  |
 | June 3: 5:00pm PST,   [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09) |  Security           |  |  |  |  |
@@ -45,7 +46,7 @@ https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09
 ### Misc 📝
 - [Join Slack](https://join.slack.com/t/splvm/shared_invite/zt-11c7tkyoy-gNOtZWwSZsE2UFOtXBw2Wg) for async discussion
 - If you wish to join 微信 (WeChat), please scan
-- <img style="width: 200px; height: 270px" src="assets/WeChat-05-12.jpg">
+- <img style="width: 200px; height: 270px" src="assets/WeChat-05-19.jpg">
 
 ### Sponsors
 > The organizers spent a lot of time and effort to make this meetup possible. If you would like to sponsor this meetup, please contact us at `systemsgossip at gmail dot com`
