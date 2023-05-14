@@ -140,7 +140,7 @@ Which node the new pod got placed? Why?
   - Can we delete the quiz-1 pod when the node is down?
     `k delete pod quiz-1`
 
-## 4. DaemonSets Demo
+## 3. DaemonSets Demo
 - Special about DaemonSets
   - ![DaemonSets runa Pod replica on each node](https://drek4537l1klr.cloudfront.net/luksa3/v-15/Figures/16.1.png)
 - Workflow of the DaemonSets Controller
