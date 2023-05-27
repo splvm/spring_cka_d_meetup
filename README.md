@@ -40,7 +40,7 @@ https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09
 | May 6: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09)    | K8s Networking: CNI                    |                                                                                                        | [Ruihua Fang]()             |                                                              | [Recording](https://youtu.be/gy0HPqCN4cg) |
 | May 14: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09)   | K8s Workload: StatefulSet & DaemonSet  | K8s In Action: Chater 15 & 16                                                                          | [Wen](linwen1991@gmail.com) | [Workload-Lab2.md](./labs/workload-2/Workload-Lab2.md)       | [Recording](https://youtu.be/HdblRHUuS2Y) |
 | May 20: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09)   | Pod Lifecycle                          |                                                                                                        | [Wen](linwen1991@gmail.com) |                                                              | [Recording](https://youtu.be/Vj1Vv19gXu0) |
-| May 27: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09)   | App Lifecycle                          |                                                                                                        |                             |                                                              |                                           |
+| May 27: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09)   | CANCELLED                              | CANCELLED                                                                                              | CANCELLED                   | CANCELLED                                                    | CANCELLED                                 |
 | June 3: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09)   | Security                               |                                                                                                        |                             |                                                              |                                           |
 | June 10: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09)  | Security                               |                                                                                                        |                             |                                                              |                                           |
 | June 17: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09)  | Troubleshooting                        |                                                                                                        |                             |                                                              |                                           |
@@ -50,7 +50,7 @@ https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09
 
 - [Join Slack](https://join.slack.com/t/splvm/shared_invite/zt-11c7tkyoy-gNOtZWwSZsE2UFOtXBw2Wg) for async discussion
 - If you wish to join 微信 (WeChat), please scan
-- <img style="width: 200px; height: 270px" src="assets/WeChat-05-19.jpg">
+- <img style="width: 200px; height: 270px" src="assets/WeChat-06-03.jpg">
 
 ### Sponsors
 
