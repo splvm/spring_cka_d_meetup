@@ -1,0 +1,17 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  creationTimestamp: null
+  labels:
+    run: rednginx
+  name: rednginx
+spec:
+  containers:
+  - image: nginx
+    name: rednginx
+    resources: {}
+  nodeSelector:
+    nodecolor: red
+  dnsPolicy: ClusterFirst
+  restartPolicy: Always
+status: {}
