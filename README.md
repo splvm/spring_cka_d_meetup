@@ -6,6 +6,7 @@ https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09
 
 ### Annoucement 📢
 
+- **06/10/2023** Meetup canceled due to presenter schedule conflicts.
 - **05/12/2023** The meetup on 5/13 will be moved to 5/14 (Sunday). See you all at 5pm PST on 5/14.
 - **05/05/2023** We are super glad to share that Ruihua Fang will give a talk on CNI on 05/06/2023 :calendar:. Please join us to learn more about CNI.
 - **04/29/2023** Meetup is cancelled today. We will resume next week. If you have any questions on the previous labs, please feel free to join the Zoom meeting for a chat.
