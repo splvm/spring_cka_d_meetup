@@ -44,14 +44,14 @@ https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09
 | May 27: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09)   | CANCELLED                              | CANCELLED                                                                                              | CANCELLED                   | CANCELLED                                                    | CANCELLED                                 |
 | June 3: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09)   | Scheduler                              | [Scheduler-Lab1.md](./labs/scheduler-1/Scheduler-Lab-1.md)                                             | [Wen](linwen1991@gmail.com) | [Scheduler-Lab1.md](./labs/scheduler-1/Scheduler-Lab-1.md)   | No Recording                              |
 | June 10: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09)  | CANCELLED                              | CANCELLED                                                                                              | CANCELLED                   | CANCELLED                                                    | CANCELLED                                 |
-| June 17: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09)  | Local K8s Cluster Build                |                                                                                                        |                             |                                                              |                                           |
+| June 18: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09)  | Local K8s Cluster Build                |                                                                                                        |                             |                                                              |                                           |
 | June 24: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09)  | Local K8s Cluster Build                |                                                                                                        |                             |                                                              |                                           |
 
 ### Misc 📝
 
 - [Join Slack](https://join.slack.com/t/splvm/shared_invite/zt-11c7tkyoy-gNOtZWwSZsE2UFOtXBw2Wg) for async discussion
 - If you wish to join 微信 (WeChat), please scan
-- <img style="width: 200px; height: 270px" src="assets/WeChat-06-17.jpg">
+- <img style="width: 200px; height: 270px" src="assets/WeChat-06-24.jpg">
 
 ### Sponsors
 
