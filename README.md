@@ -6,6 +6,7 @@ https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09
 
 ### Annoucement 📢
 
+- **06/23/2023** We decided to end K8s meetup. The new phase of our meetup will start soon. the topic will be virtual system. We will update in our slack channel for details.
 - **06/10/2023** Meetup canceled due to presenter schedule conflicts.
 - **05/12/2023** The meetup on 5/13 will be moved to 5/14 (Sunday). See you all at 5pm PST on 5/14.
 - **05/05/2023** We are super glad to share that Ruihua Fang will give a talk on CNI on 05/06/2023 :calendar:. Please join us to learn more about CNI.
@@ -43,15 +44,12 @@ https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09
 | May 20: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09)   | Pod Lifecycle                          |                                                                                                        | [Wen](linwen1991@gmail.com) |                                                              | [Recording](https://youtu.be/Vj1Vv19gXu0) |
 | May 27: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09)   | CANCELLED                              | CANCELLED                                                                                              | CANCELLED                   | CANCELLED                                                    | CANCELLED                                 |
 | June 3: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09)   | Scheduler                              | [Scheduler-Lab1.md](./labs/scheduler-1/Scheduler-Lab-1.md)                                             | [Wen](linwen1991@gmail.com) | [Scheduler-Lab1.md](./labs/scheduler-1/Scheduler-Lab-1.md)   | No Recording                              |
-| June 10: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09)  | CANCELLED                              | CANCELLED                                                                                              | CANCELLED                   | CANCELLED                                                    | CANCELLED                                 |
-| June 18: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09)  | Local K8s Cluster Build                |                                                                                                        |                             |                                                              |                                           |
-| June 24: 5:00pm PST, [Zoom](https://zoom.us/j/92517386662?pwd=eVVxQjZvbzgvbE5uS2ZRbWxOaDZSUT09)  | Local K8s Cluster Build                |                                                                                                        |                             |                                                              |                                           |
 
 ### Misc 📝
 
 - [Join Slack](https://join.slack.com/t/splvm/shared_invite/zt-11c7tkyoy-gNOtZWwSZsE2UFOtXBw2Wg) for async discussion
 - If you wish to join 微信 (WeChat), please scan
-- <img style="width: 200px; height: 270px" src="assets/WeChat-06-24.jpg">
+- <img style="width: 200px; height: 270px" src="assets/WeChat-06-30.jpg">
 
 ### Sponsors
 
